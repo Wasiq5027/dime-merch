@@ -5,7 +5,7 @@ accessories, eyewear, and batteries.
 
 🔗 **Live site:** https://www.dimemerch.com
 
-![Homepage screenshot](docs/homepage.png)
+![Homepage screenshot](fullpage_snapshot_www_dimemerch_com_2026-10-04-15-25-54.png)
 
 ## Features
 - Mega-menu navigation (Men's, Women's, Accessories, Batteries, Dime X collabs)
